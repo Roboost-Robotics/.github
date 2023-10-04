@@ -16,13 +16,13 @@ Here is a little teaser of the Roboost-Mecanum robot with vector control. Docume
 
 ![Roboost Demo](res/Roboost-Demo.gif "Roboost Demo")
 
-## Getting Started
+## Overview
 
 The Roboost project is a collection of multiple repositories, each handling a specific aspect of the robotic system. These repositories do not depend on each other and can be used independently. However, they are designed to work together seamlessly.
 
 Each Roboost component mimics a brain region with a similar function. For instance, the low-level motor control component aligns with the Primary Motor Cortex in the brain. Just as this brain region handles executing motion commands from that are recceived from "higher-level" regions, this component manages the intricacies of motion execution. The following sections provide a brief overview of each repository and its purpose.
 
-## Cerebrum
+### Cerebrum
 
 Link to repository: [Roboost Cerebrum](TODO)
 
@@ -39,7 +39,7 @@ While it is currently in development, the Cerebrum repository will eventually ha
 - Behavior Control
 - ...
 
-## Primary Motor Cortex
+### Primary Motor Cortex
 
 Link to repository: [Roboost Primary Motor Cortex](TODO)
 
@@ -47,7 +47,7 @@ Link to repository: [Roboost Primary Motor Cortex](TODO)
 
 The Primary Motor Cortex contains code related to the motor control of the robotic system. It is based on a PlatformIO project for an ESP32 and listens to the /cmd_vel topic in the ROS network. The received messages then are converted into individual motor speeds which then are used to control the given motors using different motor drivers and control algorithms.
 
-## Entorhinal Cortex
+### Entorhinal Cortex
 
 Link to repository: [Roboost Entorhinal Cortex](TODO)
 
