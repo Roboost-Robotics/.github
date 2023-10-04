@@ -41,7 +41,7 @@ While it is currently in development, the Cerebrum repository will eventually ha
 
 ### Primary Motor Cortex
 
-Link to repository: [Roboost Primary Motor Cortex](TODO)
+Link to repository: [Roboost Primary Motor Cortex](https://github.com/Roboost-Robotics/Roboost-Primary-Motor-Cortex)
 
 🏃‍♂️ Primary Motor Cortex: Low-Level Motion Control 🤖
 
