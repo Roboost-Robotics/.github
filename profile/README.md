@@ -24,7 +24,7 @@ Each Roboost component mimics a brain region with a similar function. For instan
 
 ### Cerebrum
 
-Link to repository: [Roboost Cerebrum](TODO)
+Link to repository: [Roboost Cerebrum](https://github.com/Roboost-Robotics/Roboost-Cerebrum)
 
 🧠 Cerebrum: High-Level Decision Making 🤖
 
@@ -49,7 +49,7 @@ The Primary Motor Cortex contains code related to the motor control of the robot
 
 ### Entorhinal Cortex
 
-Link to repository: [Roboost Entorhinal Cortex](TODO)
+Link to repository: [Roboost Entorhinal Cortex](https://github.com/Roboost-Robotics/Roboost-Entorhinal-Cortex)
 
 🛰️ Entorhinal Cortex: Low-Level Sensor Data Processing 🤖
 
