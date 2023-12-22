@@ -59,3 +59,33 @@ The Entorhinal Cortex is a PlatformIO project that contains the firmware for an 
 
 - [ROS2 Humble documentation](https://docs.ros.org/en/humble/)
 - [Official micro-ROS documentation](https://micro.ros.org/)
+
+
+### Embarrassingly Naive Vision for the Roboost Companion Robot:
+
+*Design Aesthetic and Structural Features*:
+- Inspired by a sleek, modern design (based on the [NEMO-2 submarine](https://nemo-submarine.com/)), the robot features a transparent dome that houses the camera and advanced sensors.
+- LEDs encircle the camera dome, providing visual cues that reflect the robot’s emotional state.
+- The robot is built for both indoor and outdoor use, equipped with three swerve drives with suspension, allowing omnidirectional movement across varied terrains.
+
+*Communication and Emotional Expression*:
+- The robot communicates through a combination of LED light patterns, animalistic sounds, and movement, all of which vary in response to its 'emotions'.
+- Movement is an integral part of its communication; the robot's motions will change in speed, fluidity, and style to convey its feelings and intentions.
+
+*Autonomy and Interaction*:
+- The robot is designed to be curious and capable of autonomous exploration, learning about its environment as it moves.
+- It is engineered to have a level of 'free will', enabling it to make choices about its behavior and interactions.
+
+*Functionality*:
+- It possesses the functionality to carry small items and navigate autonomously while avoiding obstacles.
+- It includes environmental sensors that monitor and relay information about its surroundings, with user-friendly LED indicators.
+
+*Learning and Adaptation*:
+- The robot learns behaviors from its human companions through observation and interaction, in a manner akin to a pet learning from its owner.
+- These learned behaviors and characteristics form a unique personality over time, allowing the robot to act as a bridge between generations, retaining and reflecting the mannerisms of its original companion.
+
+*Objective*:
+- The goal is to create a robot that not only serves practical functions but also forms emotional bonds with its users, adapting to their lifestyles and preferences.
+- While providing utility and assistance, the robot is also intended to be a living memory of its human companions, adapting over time to create a seamless and personalized experience.
+
+This vision statement should reflect the innovative and futuristic aspects of the robot, highlighting its functional utility, emotional interaction capabilities, and its potential to form a lasting legacy that connects past and future generations.
